@@ -16,7 +16,7 @@ ls /media/bitlocker
 mount -o loop,rw /media/bitlocker/dislocker-file /media/mount
 ls /media/mount
 
-echo "Your drive is now ready to use!"
+#echo "Your drive is now ready to use!"
 
 #https://www.baeldung.com/linux/bitlocker-encrypted-device
 #gims-inc
