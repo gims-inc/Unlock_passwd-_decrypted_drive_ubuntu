@@ -1,5 +1,3 @@
 #!/bin/bash
-umount $PATH2
-umount $PATH1
-
-#gims-inc
+sudo umount $PATH2
+sudo umount $PATH1
